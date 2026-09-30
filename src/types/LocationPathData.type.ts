@@ -1,0 +1,1 @@
+export type LocationPathDataType = { path: number[], pathName: string[], site_name?: string };

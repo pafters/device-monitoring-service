@@ -1,0 +1,1 @@
+export type AlarmLevelEnum = 'alarm' | 'warning' | 'info';

@@ -1,0 +1,1 @@
+export type PreparedConditionValueType = string | number | boolean | Set<unknown> | undefined

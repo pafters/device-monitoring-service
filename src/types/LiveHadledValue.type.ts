@@ -1,0 +1,1 @@
+export type LiveHadledValueType = string | number | boolean;

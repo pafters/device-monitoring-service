@@ -1,0 +1,1 @@
+export const maxLifeMsOfCacheMatchBinds = 10 * 60 * 1000; // 10 sec
